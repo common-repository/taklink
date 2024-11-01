@@ -1,0 +1,108 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Takl.ink\n"
+"POT-Creation-Date: 2021-03-04 15:00+0330\n"
+"PO-Revision-Date: 2021-03-03 14:28+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taklink.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-taklink-admin.php:108
+msgid "TakL.ink"
+msgstr ""
+
+#: admin/class-taklink-admin.php:158
+#, php-format
+msgid "Please config takl.ink <a href=\"%s\">Plugin settings</a> now."
+msgstr ""
+
+#: admin/class-taklink-admin.php:180
+msgid "Api Token"
+msgstr ""
+
+#: admin/class-taklink-admin.php:189
+msgid ""
+"You can get your Api Token from your TakL.ink <a target=\"_blank\" href="
+"\"https://takl.ink/panel/\">panel page</a>"
+msgstr ""
+
+#: admin/class-taklink-admin.php:206
+msgid "Page"
+msgstr ""
+
+#: admin/class-taklink-admin.php:216
+msgid "Select page that you want show your Takl.ink in it."
+msgstr ""
+
+#: admin/class-taklink-admin.php:217
+#, php-format
+msgid "<a href=\"%s\">Show page</a>"
+msgstr ""
+
+#: admin/class-taklink-admin.php:233
+msgid "Cache schedule"
+msgstr ""
+
+#: admin/class-taklink-admin.php:242
+msgid "Select the cache period of your Takl.ink in your site"
+msgstr ""
+
+#: admin/class-taklink-admin.php:288
+msgid "Select page"
+msgstr ""
+
+#: admin/class-taklink-admin.php:308
+msgid "Select schedule"
+msgstr ""
+
+#: admin/partials/taklink-admin-display.php:21
+msgid "General"
+msgstr ""
+
+#: admin/partials/taklink-admin-display.php:32
+msgid "TakL.ink Settings"
+msgstr ""
+
+#: public/class-taklink-public.php:83
+msgid "Can't connect to TakL.ink api, Please check Api token or contact us"
+msgstr ""
+
+#: public/class-taklink-public.php:125
+msgid "Api token not set in settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Taklink"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://takl.ink/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Takl.ink is a tools to make a bio link with multiple links. You can use your "
+"TakL.ink as Instagram bio link or other social networks like Telegram, "
+"Facebook, Twitter, ..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "taklink"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/taklink/"
+msgstr ""

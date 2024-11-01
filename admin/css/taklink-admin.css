@@ -1,0 +1,53 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.taklink-apitoken-status{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.taklink-apitoken-valid{
+    color: green;
+}
+
+.taklink-apitoken-invalid{
+    color: red;
+}
+
+.taklink-apitoken-empty{
+    color: grey;
+}
+
+.taklink-apitoken-status .dashicons{
+    vertical-align: middle;
+}
+
+.taklink-pagelink {
+    direction: ltr;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.taklink-pagelink a{
+    display: flex;
+    padding: 0 0.4rem;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.7rem;
+    margin: 0 0.5rem;
+    border-radius: 4px;
+}
+ 
+.taklink-pagelink a .dashicons{
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
+.taklink-pagelink a:hover{
+    background:  #007cba;
+    color:  #fff;
+}
